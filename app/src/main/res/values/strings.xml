@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Brofessor</string>
+
+    <string name="hello_world">Welcome to Brofessor!</string>
+    <string name="action_settings">Settings</string>
+</resources>
